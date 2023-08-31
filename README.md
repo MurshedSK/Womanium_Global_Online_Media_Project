@@ -32,7 +32,8 @@ Feel free to explore the contents of this repository, engage in discussions, and
 Stay curious, stay motivated, and let's shape the future, one cryptographic concept at a time.
 
 With enthusiasm and determination,
-[Murshed SK]
+
+Murshed SK
 
 
 
