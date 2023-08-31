@@ -1,0 +1,34 @@
+﻿|DAY|Views by Internal|Views by External referrals|Read Ratio|Clapps|
+| :-: | :-: | :-: | :-: | :-: |
+|[Day 0](https://medium.com/@murshedsk135/joining-my-quantum30-journey-a-voyage-into-the-quantum-world-️-7ef5ba1dca78 "Joining My #Quantum30 Journey 🚀: A Voyage into the Quantum CryptographyWorld⚛️")|22%|78%|18%|3|
+|[Day 1](https://medium.com/@murshedsk135/introduction-to-cryptography-safeguarding-secrets-in-the-digital-world-e9698bd5aa74 "Introduction to Cryptography: Safeguarding Secrets in the Digital World")|39%|61%|31%|4|
+|[Day 2](https://medium.com/@murshedsk135/modular-arithmetic-the-key-to-unbreakable-secrets-in-cipher-b4295cd6e846 "Modular Arithmetic: The Key to Unbreakable Secrets in Cipher")|14%|86%|63%|-|
+|[Day 3](https://medium.com/@murshedsk135/guarding-secrets-understanding-stream-ciphers-random-numbers-and-the-one-time-pad-ab0a6cb9d0d2 "Guarding Secrets: Understanding Stream Ciphers, Random Numbers, and the One-Time Pad")|8%|92%|42%|8|
+|[Day 4](https://medium.com/@murshedsk135/cryptographic-evolution-from-feistel-cipher-to-triple-des-and-beyond-3aa0f8e08541 "Cryptographic Evolution: From Feistel Cipher to Triple DES and Beyond")|43%|57%|46%|1|
+|[Day 5](https://medium.com/@murshedsk135/introduction-to-galois-fields-exploring-aes-fields-and-finite-field-arithmetic-10c5f5c30b76 "Introduction to Galois Fields: Exploring AES Fields and Finite Field Arithmetic")|31%|69%|45%|1|
+|[Day 6](https://medium.com/@murshedsk135/the-lock-and-key-of-the-digital-realm-understanding-aes-encryption-82052cdcb08  "The Lock and Key of the Digital Realm: Understanding AES Encryption")|25%|75%|25%|1|
+|[Day 7](https://medium.com/@murshedsk135/week-1-reflections-a-journey-into-the-fascinating-world-of-cryptography-d2e09dca5c91 "Week 1 Reflections: A Journey into the Fascinating World of Cryptography")|8%|92%|8%|1|
+|[Day 8](https://medium.com/@murshedsk135/exploring-number-theory-euclidean-algorithm-eulers-phi-function-and-euler-s-theorem-ee685a97e4d4 "Exploring Number Theory: Euclidean Algorithm, Euler’s Phi Function, and Euler’s Theorem")|0%|100%|50%|-|
+|[Day 9](https://medium.com/@murshedsk135/rsa-cryptosystem-and-efficient-exponentiation-safeguarding-digital-communication-bb5fcda7e215 "RSA Cryptosystem and Efficient Exponentiation: Safeguarding Digital Communication")|-|-|0%|-|
+|[Day 10](https://medium.com/@murshedsk135/exploring-the-diffie-hellman-key-exchange-discrete-logarithm-problem-and-the-significance-of-3fc608f370bc "Exploring the Diffie-Hellman Key Exchange, Discrete Logarithm Problem, and the Significance of Cyclic Groups in Cryptography")|100%|0%|0%|-|
+|[Day 11](https://medium.com/@murshedsk135/digital-signatures-and-security-services-ensuring-trust-in-the-digital-age-6533a46dfc70 "Digital Signatures and Security Services: Ensuring Trust in the Digital Age")|-|-|0%|-|
+|[Day 12](https://medium.com/@murshedsk135/hash-functions-unveiling-the-key-to-secure-digital-signatures-and-data-integrity-7b774076f480 "Hash Functions: Unveiling the Key to Secure Digital Signatures and Data Integrity")|0%|100%|100%|-|
+|[Day 13](https://medium.com/@murshedsk135/man-in-the-middle-attack-certificates-pki-and-asymmetric-key-establishment-a-comprehensive-991d6fda274b "Man-in-the-Middle Attack, Certificates, PKI, and Asymmetric Key Establishment: A Comprehensive Analysis")|-|-|0%|-|
+|[Day 14](https://medium.com/@murshedsk135/week-two-progress-navigating-the-depths-of-cryptography-and-entering-the-quantum-frontier-b8868b3d164e "Week Two Progress: Navigating the Depths of Cryptography and Entering the Quantum Frontier")|50%|50%|67%|1|
+|[Day 15](https://medium.com/@murshedsk135/the-map-of-quantum-computing-df6abc11276c "The Map of Quantum Computing")|54%|46%|54%|20|
+|[Day 16](https://medium.com/@murshedsk135/exploring-quantum-computers-from-bits-to-qubits-and-superposition-4d940e1cbe11 "Exploring Quantum Computers: From Bits to Qubits and Superposition")|0%|100%|0%|-|
+|[Day 17](https://medium.com/@murshedsk135/quantum-technologys-rise-and-its-implications-for-internet-safety-4be968fc1b41 "Quantum Technology’s Rise and its Implications for Internet Safety")|23%|77%|25%|3|
+|[Day 18](https://medium.com/@murshedsk135/unveiling-the-enigma-of-shors-algorithm-from-quantum-mysteries-to-efficient-factorization-4c339394685b "Unveiling the Enigma of Shor’s Algorithm: From Quantum Mysteries to Efficient Factorization")|11%|89%|56%|1|
+|[Day 19](https://medium.com/@murshedsk135/grovers-algorithm-quantum-leap-in-search-efficiency-996023862769 "Grover’s Algorithm: Quantum Leap in Search Efficiency")|50%|50%|75%|-|
+|[Day 20](https://medium.com/@murshedsk135/navigating-the-quantum-cryptanalysis-landscape-challenges-and-solutions-dcdfa374b278 "Navigating the Quantum Cryptanalysis Landscape")|40%|60%|25%|4|
+|[Day 21](https://medium.com/@murshedsk135/week-three-progress-journeying-through-quantum-realms-db4c50ca5476 "Week Three Progress: Journeying Through Quantum Realms")|100%|0%|100%|3|
+|[Day 22](https://medium.com/@murshedsk135/quantum-cryptography-safeguarding-information-with-the-power-of-quantum-mechanics-4217ec1a0e4 "Quantum Cryptography: Safeguarding Information with the Power of Quantum Mechanics")|60%|40%|25%|3|
+|[Day 23](https://medium.com/@murshedsk135/quantum-key-distribution-securing-communication-in-the-quantum-era-2b8e8253fa2a "Quantum Key Distribution: Securing Communication in the Quantum Era")|100%|0%|50%|3|
+|[Day 24](https://medium.com/@murshedsk135/quantum-secure-communication-unleashing-unbreakable-connections-9e260f4db9cc "Quantum Secure Communication: Unleashing Unbreakable Connections")|100%|0%|0%|-|
+|[Day 25](https://medium.com/@murshedsk135/embracing-the-future-navigating-the-realm-of-post-quantum-cryptography-39056c796ccb "Embracing the Future: Navigating the Realm of Post-Quantum Cryptography")|-|-|0%|-|
+|[Day 26](https://medium.com/@murshedsk135/quantum-error-correction-and-fault-tolerance-part-1-939b06065a69 "Quantum Error Correction and Fault Tolerance: Part 1")|69%|31%|50%|-|
+|[Day 27](https://medium.com/@murshedsk135/quantum-error-correction-and-fault-tolerance-part-2-4f130b416f09 "Quantum Error Correction and Fault Tolerance: Part 2")|100%|0%|0%|-|
+|[Day 28](https://medium.com/@murshedsk135/week-4-reflection-diving-deeper-into-quantum-cryptography-and-beyond-fd52b6b94ea3 "Week 4 Reflection: Diving Deeper into Quantum Cryptography and Beyond")|-|-|0%|-|
+|[Day 29](https://medium.com/@murshedsk135/securing-the-quantum-future-exploring-eavesdropping-strategies-in-quantum-cryptography-and-b1b864ffb8fb "Securing the Quantum Future: Exploring Eavesdropping Strategies in Quantum Cryptography and Fault-Injection Attacks on Post-Quantum Cryptography")|100%|0%|100%|-|
+|[Day 30](https://medium.com/@murshedsk135/securing-the-future-exploring-quantum-cryptography-in-the-quantum30-challenge-6ec97c3c3723 "Securing the Future: Exploring Quantum Cryptography in the #Quantum30 Challenge")|-|-|0%|-|
+
