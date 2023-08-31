@@ -31,4 +31,3 @@
 |[Day 28](https://medium.com/@murshedsk135/week-4-reflection-diving-deeper-into-quantum-cryptography-and-beyond-fd52b6b94ea3 "Week 4 Reflection: Diving Deeper into Quantum Cryptography and Beyond")|-|-|0%|-|
 |[Day 29](https://medium.com/@murshedsk135/securing-the-quantum-future-exploring-eavesdropping-strategies-in-quantum-cryptography-and-b1b864ffb8fb "Securing the Quantum Future: Exploring Eavesdropping Strategies in Quantum Cryptography and Fault-Injection Attacks on Post-Quantum Cryptography")|100%|0%|100%|-|
 |[Day 30](https://medium.com/@murshedsk135/securing-the-future-exploring-quantum-cryptography-in-the-quantum30-challenge-6ec97c3c3723 "Securing the Future: Exploring Quantum Cryptography in the #Quantum30 Challenge")|-|-|0%|-|
-
